@@ -9,11 +9,6 @@
 - 后台功能包括：总览、订单管理、商品管理、分类管理、标签管理、评论管理、用户管理、运营管理、日志管理、系统信息模块。
 
 ### 演示地址
-
-前台地址： http://1.117.171.66:8003/#/index
-
-后台地址：http://1.117.171.66:8003/#/admin
-
 后台管理帐号：
 
 用户名：admin123
@@ -60,21 +55,6 @@ npm install
 ```
 npm run serve
 ```
-
-
-### 界面预览
-
-首页
-
-![](https://raw.githubusercontent.com/geeeeeeeek/shop/master/server/upload/img/a.png)
-
-
-后台页面
-
-![](https://raw.githubusercontent.com/geeeeeeeek/shop/master/server/upload/img/b.png)
-
-
-
 ### 待完善功能
 
 - 邮箱推送功能
